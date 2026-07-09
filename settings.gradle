@@ -1,3 +1,0 @@
-include ':core-module'
-include ':app'
-rootProject.name = "VPN"
